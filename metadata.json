@@ -1,7 +1,6 @@
 {
   "name": "SYD Colombia - Cotización y Licitaciones",
-  "description": "Sistema web integral de cotizaciones biomédicas, licitaciones públicas, seguimiento de órdenes de compra y base de datos con exportación/importación nativa en Microsoft Excel (.xlsx).",
-  "requestFramePermissions": [],
+  "description": "",
   "majorCapabilities": [
     "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
   ]
